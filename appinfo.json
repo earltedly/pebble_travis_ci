@@ -1,0 +1,17 @@
+{
+  "uuid": "d0f56e64-8101-4f5c-8773-eb041d5525f8",
+  "shortName": "pebble_travis_ci",
+  "longName": "pebble_travis_ci",
+  "companyName": "MakeAwesomeHappen",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
